@@ -1,0 +1,51 @@
+body {
+  justify-content: center;
+  text-align: center;
+  font-family: 'Verdana';
+  color: #636161;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+#main {
+  background-color: #fafafa;
+  padding: 20px;
+  border-radius: 15px;
+  margin: 1%;
+}
+
+img {
+  display: block;
+}
+
+#img-div {
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0 0 40px 0;
+}
+
+#img-caption {
+  font-size: 12px;
+  text-align: center;
+  padding: 10px;
+}
+
+section {
+  display: block;
+  margin: 10px;
+  padding: 4px;
+}
+
+ul > li {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
+h3, #quote-gojira {
+  text-align: center;
+  margin: 0;
+}
